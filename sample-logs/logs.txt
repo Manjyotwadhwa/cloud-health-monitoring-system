@@ -1,0 +1,6 @@
+ERROR: CPU usage reached 95%
+WARNING: Multiple failed login attempts
+CRITICAL: Server unreachable
+INFO: Auto recovery initiated
+ERROR: High memory usage detected
+WARNING: Suspicious API request detected
